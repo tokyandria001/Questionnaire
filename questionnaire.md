@@ -1,4 +1,4 @@
-# 🧍‍♂️ Partie 1 : Profil du répondant
+# Partie 1 : Profil du répondant
 
 **1. Quel est votre âge ?**  
 - [ ] Moins de 18 ans  
@@ -15,7 +15,7 @@
 - [ ] Retraité(e)  
 
 **3. Utilisez-vous un service ou application musicale?**  
-- [ ] Oui  
+- [ ] Oui, précisez : __________  
 - [ ] Non  
 
 *Si Non, passer directement à la Partie 6 : Opinion générale*  
@@ -33,7 +33,7 @@
 
 ---
 
-# 🎧 Partie 2 : Utilisation du service
+# Partie 2 : Utilisation du service
 
 **6. À quelle fréquence utilisez-vous ce service ?**  
 - [ ] Tous les jours  
@@ -68,7 +68,7 @@
 
 ---
 
-# ⭐ Partie 3 : Qualité du service
+# Partie 3 : Qualité du service
 
 **11. Comment évaluez-vous la qualité générale du service ?**  
 - [ ] 1 Très mauvaise  
@@ -101,7 +101,7 @@
 
 ---
 
-# 💰 Partie 4 : Rapport qualité / prix
+# Partie 4 : Rapport qualité / prix
 
 **16. Quel est le coût du service en question ?**  
 - [ ] Moins de 5€  
@@ -127,7 +127,7 @@
 
 ---
 
-# 💬 Partie 5 : Satisfaction et fidélité
+# Partie 5 : Satisfaction et fidélité
 
 **20. Êtes-vous globalement satisfait(e) du service ?**  
 - [ ] Très satisfait(e)  
@@ -161,7 +161,7 @@
 
 ---
 
-# 🧠 Partie 6 : Opinion générale
+# Partie 6 : Opinion générale
 
 **25. Sur une échelle de 1 à 10, quelle note globale donneriez-vous au service ?**  
 - [ ] 1 … 10  
