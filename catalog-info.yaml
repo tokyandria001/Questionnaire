@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Questionnaire
+  description: Questionnaire
+  annotations:
+    github.com/project-slug: tokyandria001/Questionnaire
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guests
